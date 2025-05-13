@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayan-banerjee-55826820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayan-banerjee-55826820a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ayan2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayan2000/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/ayanbanerjee921/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/ayanbanerjee921/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayan-banerjee-55826820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayan-banerjee-55826820a/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ayan2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayan2000/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayanbanerjee921/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/ayanbanerjee921/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
