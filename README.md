@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayan0508" alt="ayan0508" /></a> </p>
 
-- 🔭 I’m currently working on [OpenCart Demo Website](https://github.com/ayan0508/OpenCartAutomation)
+- 🔭 I’m currently working on [Automatedemokart Website](https://github.com/ayan0508/automatedemokart)
 
 - 🌱 I’m currently learning **Pytest,Rest Assured,Cucumber framework**
 
