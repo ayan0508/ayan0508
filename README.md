@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan Banerjee</h1>
-<h3 align="center">A passionate Test Engineer with 1.6 years of Hands-on experiece with both manual and Automation Testing.</h3>
+<h3 align="center">A passionate Test Engineer with 1.9 years of Hands-on experiece with both manual and Automation Testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan0508&label=Profile%20views&color=0e75b6&style=flat" alt="ayan0508" /> </p>
 
